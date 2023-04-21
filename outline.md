@@ -1,8 +1,7 @@
 # Outline
 
 ## Deadline: April 26th, 2023 by 9am
-
-## Names: Trang, Sabrina, Adriana, Anthony
+## Names: Anthony, Trang, Adriana, Sabrina 
 
 ## Plan
 
