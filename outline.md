@@ -58,6 +58,6 @@ Narrator: AI can be used in the classroom by a professor!
 
 Student 4: How can they possibly do that? 
 
-Narrator: It can be an accesible as teachers can implement an interactive teaching assistant in class. It can also be used to support the professor in making a cirriculum in the classroom. Lastly, it can be used to grade exams or essays and relieve workload on teachers. 
+Narrator: It can be accesible as teachers can implement an interactive teaching assistant in class. It can also be used to support the professor in making a cirriculum in the classroom. Lastly, it can be used to grade exams or essays and relieve workload on teachers. 
 
 Student 4: That sounds amazing and makes a more adaptable environment to allow professors to incorporate AI in the classroom! I will now let my teacher know about this!
