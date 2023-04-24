@@ -9,7 +9,7 @@ In this challenge we are going to create a Tiktok video about AI to show how stu
 
 ## Script
 
-Scenario 1 - Student Cheats 
+**Scenario 1 - Student Cheats 
 
 Narrator: Have you ever felt the need to be lazy on an assignment and cheat?
 
@@ -21,7 +21,7 @@ Student 1: WOW AMAZING! I am so happy now that I can use these resources to comp
 
 Narrator: AI can be a resource for students to easily grasp answers from the internet and not get caught with plagiarism. AI can sometimes create lazy students and breeze through assignments. (FIX LATER OR SOMETHING)
 
-Scenario 2: Benefits
+**Scenario 2: Benefits
 
 Narrator: (INTRODUCE THE DIFFERENT SCENARIO HERE)
 
@@ -36,7 +36,7 @@ Ask the AI to explain what the model is and how it work and it can quickly help 
 Student 2: Wow I did not know I could use AI in such an efficient way! I can now study unlike student 1 (FIX LATER OR SOMETHING) 
 
 
-Scenario 3 - Ethics (Viewpoints)
+**Scenario 3 - Ethics (Viewpoints)
 
 Student 3: So I have never used AI before, I want to know if AI is good or bad so I won’t get in trouble by Professor JJ. 
 
@@ -52,8 +52,12 @@ Narrator: AI is advancing our knowledge on technology and that plays a major rol
 
 Student 3: I will use AI to help me teach new concepts as long as I use it ethnically
 
-Scenario 4: Ideas for integrating AI into teaching.
+**Scenario 4: Ideas for integrating AI into teaching.
 
-Narrator: 
+Narrator: AI can be used in the classroom by a professor!
 
-Student 4: 
+Student 4: How can they possibly do that? 
+
+Narrator: It can be an accesible as teachers can implement an interactice TA (teaching assistant) in class. It can also be used to support the professor in making a cirriculum in the classroom. Lastly, it can be used to grade exams or essays and relieve workload on teachers. 
+
+Student 4: That sounds amazing and makes a more adaptable environment to allow professors to incorporate AI in the classroom! I will now let my teacher know about this!
