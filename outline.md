@@ -19,7 +19,7 @@ Narrator: Well AI is here to help you! You can use sources like Chat GPT, Micros
 
 Student 1: WOW AMAZING! I am so happy now that I can use these resources to complete my assignments and have time to party this weekend. 
 
-Narrator: AI can be a resource for students to easily grasp answers from the internet and not get caught with plagiarism. AI can sometimes create lazy students and breeze through assignments. (FIX LATER OR SOMETHING)
+Narrator: AI can be a resource for students to easily grasp answers from the internet and not get caught with plagiarism. AI can sometimes create lazy students and breeze through assignments. 
 
 **Scenario 2: Benefits**
 
@@ -58,6 +58,6 @@ Narrator: AI can be used in the classroom by a professor!
 
 Student 4: How can they possibly do that? 
 
-Narrator: It can be an accesible as teachers can implement an interactice TA (teaching assistant) in class. It can also be used to support the professor in making a cirriculum in the classroom. Lastly, it can be used to grade exams or essays and relieve workload on teachers. 
+Narrator: It can be an accesible as teachers can implement an interactive teaching assistant in class. It can also be used to support the professor in making a cirriculum in the classroom. Lastly, it can be used to grade exams or essays and relieve workload on teachers. 
 
 Student 4: That sounds amazing and makes a more adaptable environment to allow professors to incorporate AI in the classroom! I will now let my teacher know about this!
